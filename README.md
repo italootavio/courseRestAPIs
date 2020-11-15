@@ -36,7 +36,7 @@ Link para download:<br>
 ```
 https://spring.io/tools
 ```
-## Instalação Postman - Windwos e Ubuntu
+## Instalação Postman - Windows e Ubuntu
 
 Link para instalação no chrome:<br>
 ```
