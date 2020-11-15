@@ -30,7 +30,7 @@ Baixar o JDK no link: <br>
 ```
 https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot
 ```
-## Instalação Spring Tool Suite - Windwos
+## Instalação Spring Tool Suite - Windows
 
 Link para download:<br>
 ```
